@@ -43,5 +43,5 @@
 # game development
 vcpkg/
 build/
+games/
 *.zip
-*.md
